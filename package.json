@@ -1,0 +1,18 @@
+{
+  "name": "newsapiforchatfuel",
+  "version": "1.0.0",
+  "description": "News API for Chatfuel Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amit Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "newsapi": "^2.4.0",
+    "save": "^2.3.3"
+  }
+}
