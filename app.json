@@ -1,7 +1,7 @@
 {
     "name" : "news-api-for-chatfuel-code",
     "description" : "An API that exposes news in the form of a response that is accepted by Chatfuel and is rendered as a gallery on Facebook Messanger",
-    "repository" : "https://github.com/AmitG/NewsAPIForChatfuel.git",
+    "repository" : "https://github.com/amitrical555/NewsAPIForChatfuel.git",
     "keywords" : [
         "news",
         "api",
